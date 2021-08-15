@@ -10,6 +10,4 @@
 <h2> Hello, New changes 15th Aug 1:14PM </h2>
 <h3> Hello, New changes with script running 15th Aug 1:16PM </h3>
 
-<h1> Hello, Complete CI CD pipeline 9:38PM!!   </h1>
-<h4> next commit </h4>
-<h4> update image </h4>
+<h1> Hello, Complete CI CD pipeline 9:53PM!!   </h1>
